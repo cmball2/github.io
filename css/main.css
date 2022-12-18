@@ -4,6 +4,7 @@ body {
     width: 70%;
 }
 nav ul, footer ul {
+    background-color: thistle;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
@@ -26,7 +27,7 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
-    text-align: center;
+    text-align: left;
     font-size: 3em;
     color: #000000;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
