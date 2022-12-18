@@ -26,16 +26,16 @@ a {
 a:hover {
     text-decoration: underline;
 }
-h1 {
+h {
     text-align: left;
-    font-size: 3em;
+    font-size: 15px
     color: #000000;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
     text-align: left;
-    font-size: 1.5em;
-    line-height: 1.4em;
+    font-size: 5px
+    line-height: 5px
     color: #000000;
 }
 footer {
