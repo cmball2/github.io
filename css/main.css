@@ -1,5 +1,5 @@
 body {
-    background-color: #2F4F4F;
+    background-color: #e6e6fa;
     margin: 60px auto;
     width: 70%;
 }
@@ -10,17 +10,17 @@ nav ul, footer ul {
     font-weight: bold;
     font-size: 35px;
     text-align: center;
-    color: #F0FFF0;
+    color: #D4D4F5;
 }
 nav ul li, footer ul li {
     text-align: center;
     display: inline;
     margin-right: 20px;
-    color: #F0FFF0;
+    color: #000000;
 }
 a {
     text-decoration: none;
-    color: #F0FFF0;
+    color: #000000;
 }
 a:hover {
     text-decoration: underline;
@@ -28,14 +28,14 @@ a:hover {
 h1 {
     text-align: center;
     font-size: 3em;
-    color: #F0FFF0;
+    color: #000000;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
     text-align: left;
     font-size: 1.5em;
     line-height: 1.4em;
-    color: #F0FFF0;
+    color: #000000;
 }
 footer {
     font-size: .8em;
