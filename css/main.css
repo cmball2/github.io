@@ -24,7 +24,8 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
-    border-top: 1px solid #f0fff0;
+    border-top: 1px solid;
+    border-top-color: #f0fff0;
     font-size: 3em;
     color: #F0FFF0;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -35,7 +36,8 @@ p {
     color: #F0FFF0;
 }
 footer {
-    border-top: 1px solid #d5d5d5;
+    border-top: 1px solid;
+    border-top-color: #f0fff0;
     font-size: .8em;
 }
 
